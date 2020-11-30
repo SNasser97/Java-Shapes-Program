@@ -1,4 +1,4 @@
-RECT,#dd3f0f,50,50,50,50
+RECT,#02deea,50,50,50,50
 OVAL,#ed19fc,120,120,120,120
 LINE,#ea020a,300,300,20,20
 STRING,#000,Simple Shape Program,30,30
